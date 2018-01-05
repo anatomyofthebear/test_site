@@ -21,7 +21,7 @@
 <body>
 	<div class="my_search live_search">
 		<form action="" id="myform">
-	        <input type="search" placeholder="Введите название города" class="form-control" name="query" id="live_query_map">
+	        <input type="search" placeholder="Введите название страны" class="form-control" name="query" id="live_query_map">
 		</form>
     </div>
     <div class="search_result">

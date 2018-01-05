@@ -20,7 +20,7 @@
 <body>
 	<div class="my_search">
 		<form action="" id="myform">
-	        <input type="search" placeholder="Введите название города" class="form-control" name="query" id="query">
+	        <input type="search" placeholder="Введите название страны" class="form-control" name="query" id="query">
 	        <button type="submit" class="btn btn-info"  id="search_b">Найти</button> 
 		</form>
     </div>
